@@ -1,0 +1,3 @@
+interface:
+  display_name: "레거시 C++ 운송 게임 한글화"
+  short_description: "C++ 재구현·YAML·제어 문자열·팔레트 글꼴의 한글화 구현"
